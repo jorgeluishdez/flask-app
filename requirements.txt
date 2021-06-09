@@ -1,4 +1,4 @@
-pip==9.0.3
+pip==19.2
 argcomplete==1.9.2
 base58==0.2.4
 boto3==1.7.28
